@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Exploring the Cosmos",
+    "content": "An in-depth look at the wonders of the universe.",
+    "author": "Carl Sagan"
+  },
+  {
+    "title": "The Joy of Painting",
+    "content": "A guide to painting with Bob Ross.",
+    "author": "Bob Ross"
+  },
+  {
+    "title": "The Art of War",
+    "content": "A timeless treatise on strategy and tactics.",
+    "author": "Sun Tzu"
+  },
+  {
+    "title": "The Road Less Traveled",
+    "content": "A reflection on the choices we make.",
+    "author": "Robert Frost"
+  },
+  {
+    "title": "Meditations",
+    "content": "Philosophical musings by Marcus Aurelius.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "content": "A powerful story about race and justice in the American South.",
+    "author": "Harper Lee"
+  },
+  {
+    "title": "1984",
+    "content": "A dystopian novel about a totalitarian regime.",
+    "author": "George Orwell"
+  },
+  {
+    "title": "The Great Gatsby",
+    "content": "A tale of wealth and ambition in the Roaring Twenties.",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "content": "A story about teenage rebellion and alienation.",
+    "author": "J.D. Salinger"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "content": "A classic novel about love and social class.",
+    "author": "Jane Austen"
+  }
+]
